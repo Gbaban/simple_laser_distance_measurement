@@ -28,3 +28,17 @@ Here is a picture of the electric connections:
 ![wiring](https://github.com/anwofis/simple_laser_distance_measurement/blob/master/wiring/wiring.png)
 
 Testing via Serial0 on my PC is working fine: the sensor seems accurate within 0.1 mm. When the display arrives, i'll install everything and write an update.
+
+18/6/27
+
+So the display arrived and i put everything into a project box:
+
+<img src="https://github.com/anwofis/simple_laser_distance_measurement/blob/master/images/box.jpg" title="box" width="500">
+
+Here is the sensor in action:
+
+<img src="https://github.com/anwofis/simple_laser_distance_measurement/blob/master/images/sensor.jpg" title="sensor" width="350">
+
+All is working fine. Just the sensor is - as it seems - only accurate by 0.5 - 1.0 mm for higher distances, but that is still better than measuring by hand. ;)
+
+Also added the source code.

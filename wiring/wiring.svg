@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="299.62457mm"
-   height="271.65189mm"
-   viewBox="0 0 299.62457 271.65189"
+   width="264.17041mm"
+   height="261.06839mm"
+   viewBox="0 0 264.17041 261.06839"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
@@ -138,9 +138,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="222.00374"
-     inkscape:cy="363.86897"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="543.27118"
+     inkscape:cy="652.06776"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -170,7 +170,7 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(115.03727,-55.340713)">
+     transform="translate(79.583097,-55.340713)">
     <rect
        style="fill:#ff5700;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect815"
@@ -212,17 +212,17 @@
        id="rect827"
        width="80.926949"
        height="40.861469"
-       x="-114.92479"
+       x="-79.470619"
        y="210.04546" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-109.99107"
+       x="-74.53688"
        y="233.5"
        id="text831"><tspan
          sodipodi:role="line"
          id="tspan829"
-         x="-109.99107"
+         x="-74.53688"
          y="233.5"
          style="stroke-width:0.26458332">Laser Sensor</tspan></text>
     <rect
@@ -302,13 +302,13 @@
          style="font-size:4.93888903px;stroke-width:0.26458332">GND</tspan></text>
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotL)"
-       d="m 70.870535,115.57143 -116.605653,0.0378 -0.0378,94.07827"
+       d="m 70.870535,115.57143 -93.851486,0.0378 -0.0378,94.07827"
        id="path859"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1201)"
-       d="m -57.641368,209.87649 0.07559,-87.69048 140.15357,-0.15119"
+       d="m -14.249701,209.87649 0.07559,-87.69048 96.761903,-0.15119"
        id="path1191"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
@@ -411,50 +411,52 @@
        width="106.2113"
        height="45.357143"
        x="58.964287"
-       y="281.50296" />
+       y="270.91946" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="79.904175"
-       y="308.33936"
+       y="297.75586"
        id="text1469"><tspan
          sodipodi:role="line"
          id="tspan1467"
          x="79.904175"
-         y="308.33936"
+         y="297.75586"
          style="stroke-width:0.26458332">Nextion 2.4''</tspan></text>
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1547)"
-       d="M 111.50297,185.27024 111.125,281.125"
+       d="m 111.50297,185.27024 0.1512,85.27143"
        id="path1471"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker1605)"
-       d="M 119.81845,176.04762 V 281.42736"
+       d="m 119.81845,176.04762 v 94.79641"
        id="path1473"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ffff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 161.56443,254.70459 0.0668,26.79376"
+       d="m 161.56443,254.70459 0.0668,15.68126"
        id="path1475"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#0000e1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 154.48178,254.83823 -0.20045,26.45968"
+       d="m 154.48178,254.83823 -0.20045,15.87635"
        id="path1477"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="149.67093"
-       y="285.90833"
+       y="275.32483"
        id="text1481"><tspan
          sodipodi:role="line"
          id="tspan1479"
          x="149.67093"
-         y="285.90833"
+         y="275.32483"
          style="font-size:4.93888903px;stroke-width:0.26458332">TX RX</tspan></text>
     <text
        xml:space="preserve"
@@ -469,14 +471,16 @@
          style="font-size:4.93888903px;stroke-width:0.26458332">D11 D10</tspan></text>
     <path
        style="fill:none;stroke:#ff00ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M -34.017857,213.92076 H 24.190476"
+       d="M 1.4363097,213.92076 H 24.190476"
        id="path1685"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#00ffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M -33.261905,247.56074 H 24.190476"
+       d="M 1.1339283,247.56074 H 24.190476"
        id="path1687"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -502,23 +506,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-41.766369"
+       x="-6.3121843"
        y="215.81076"
        id="text1699"><tspan
          sodipodi:role="line"
          id="tspan1697"
-         x="-41.766369"
+         x="-6.3121843"
          y="215.81076"
          style="font-size:4.93888903px;stroke-width:0.26458332">TX</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-42.144344"
+       x="-6.6901593"
        y="248.80803"
        id="text1703"><tspan
          sodipodi:role="line"
          id="tspan1701"
-         x="-42.144344"
+         x="-6.6901593"
          y="248.80803"
          style="font-size:4.93888903px;stroke-width:0.26458332">RX</tspan></text>
     <path
