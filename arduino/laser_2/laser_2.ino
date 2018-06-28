@@ -35,7 +35,7 @@ void send_to_nextion(char ss[]) {
 }
 
 void get_distance(void) {
-  laser_serial.print("/020D0e0C.");
+  laser_serial.print(F("/020D0e0C."));
 }
 
 
@@ -64,14 +64,13 @@ void read_distance_and_display(void) {
     send_to_nextion(P("txt_dist.txt=\"Zu nah!\""));
   }
   else if (distance_buffer[0] == 'h') {
-
     send_to_nextion(P("txt_dist.txt=\"Zu weit!\""));
   }
   else {
     double distance = 60.0 + atof(distance_buffer) / 100.0;
 
     char str_temp[7];
-    dtostrf(distance / 100.0, 6, 3, str_temp);
+    dtostrf(distance, 6, 3, str_temp);
     sprintf_P(nex_buffer, PSTR("txt_dist.txt=\"%s\""), str_temp);
     send_to_nextion(nex_buffer);
   }
