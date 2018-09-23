@@ -22,7 +22,7 @@ void setup(void) {
   send_to_nextion(P("page 1"));
 }
 
-void send_to_nextion(char ss[]) {
+void send_to_nextion(const char *ss) {
   /*
     send_to_nextion():
     sends nextion string and terminates it
